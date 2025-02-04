@@ -96,9 +96,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@Bhupendramalla](https://github.com/bhupendramalla)
 
-Project Link: [https://github.com/yourusername/mental-health-matters](https://github.com/yourusername/mental-health-matters)
+Project Link: [https://github.com/bhupendramalla/mental-health-matters](https://github.com/bhupendramalla/mental-health-matters)
 
 ## Acknowledgments
 
