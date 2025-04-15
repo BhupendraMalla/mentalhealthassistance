@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import { supabase } from '../lib/supabase'; //
 
-function SignUp() {
+export default function SignUpPage() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [fullName, setFullName] = useState('');
@@ -81,5 +81,3 @@ function SignUp() {
     </form>
   );
 }
-
-export default SignUp;
