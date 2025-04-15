@@ -1,4 +1,3 @@
-// Example SignIn component (React)
 import React, { useState } from 'react';
 import { supabase } from '../lib/supabase'; //
 
