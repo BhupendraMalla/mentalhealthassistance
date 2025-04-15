@@ -1,4 +1,3 @@
-import React from 'react';
 import { Heart, Phone, Calendar, MessageCircle, Shield, Users } from 'lucide-react';
 
 function App() {
